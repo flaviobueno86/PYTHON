@@ -1,0 +1,1 @@
+print(variavel[::-1])
